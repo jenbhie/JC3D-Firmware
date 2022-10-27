@@ -1,2 +1,2 @@
 # JC3D-Firmware
-# This firmware is used only for custom build JC3D Printer.
+# This firmware is only for custom build JC3D Printer using SKR2 F407 with BL touch.
