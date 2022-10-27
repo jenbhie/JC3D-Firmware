@@ -1,2 +1,2 @@
 # JC3D-Firmware
-# This firmware is used only for custom 3D Pinter (JC3D)
+# This firmware is used only for custom build JC3D Printer.
